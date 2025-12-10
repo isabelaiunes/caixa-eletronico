@@ -1,4 +1,4 @@
-> [!IMPORTANTE]
+> [!IMPORTANT]
 >**SENHA PARA ACESSAR O SIMULADOR = 1234**
 
 https://isabelaiunes.github.io/caixa-eletronico/
