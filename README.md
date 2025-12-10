@@ -25,5 +25,3 @@ A consulta é feita instantaneamente e o saldo atualizado é mostrado na interfa
 
 **Histórico de Transações:** Armazena e exibe as últimas transações realizadas (depósitos e saques) com a data e hora, permitindo ao usuário revisar suas operações.
 Cada transação no histórico inclui o tipo (depósito ou saque), o valor e o horário em que foi realizada.
-
-**Logout:** O usuário pode encerrar a sessão, retornando à tela de login. Isso permite que o simulador seja usado novamente, simulando um ambiente multiusuário.
